@@ -1,0 +1,168 @@
+[
+  {
+    "count": "2",
+    "color": "black",
+    "title": "Kingfisher's Greatsword",
+    "icon": "crossed-swords",
+    "icon_back": "crossed-swords",
+    "contents": [
+      "subtitle | Weapon, rare",
+      "property | Damage | 3d6+2 slashing",
+      "property | Properties | Heavy, two-handed",
+      "property | Type | Martial weapon, melee weapon",
+      "property | Tier | Major tier",
+      "property | Weight | 6 lb.",
+      "rule",
+      "description | Rare | You have a +2 bonus to attack and damage rolls made with this magic weapon.",
+      "description | Heavy | Small/Tiny creatures have disadvantage on attack rolls.",
+      "description | Two-Handed | Requires two hands to attack with."
+    ],
+    "tags": [
+      "item",
+      "DMG",
+      "martial weapon",
+      "melee weapon"
+    ]
+  },
+  {
+    "count": "2",
+    "color": "black",
+    "title": "Fireball",
+    "icon": "magic-swirl",
+    "icon_back": "magic-swirl",
+    "contents": [
+      "subtitle | 3rd-level evocation",
+      "rule",
+      "property | Casting Time | 1 action",
+      "property | Range | 150 feet",
+      "property | Components | V, S, M (a tiny ball of bat guano and sulfur)",
+      "property | Duration | Instantaneous",
+      "rule",
+      "text | A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame. Each creature in a 20-foot-radius sphere centered on that point must make a Dexterity saving throw. A target takes 8d6 fire damage on a failed save, or half as much damage on a successful one.",
+      ""
+    ],
+    "tags": [
+      "spell",
+      "PHB",
+      "3rd level",
+      "Evocation",
+      "Sorcerer",
+      "Wizard"
+    ]
+  },
+  {
+    "count": "2",
+    "color": "black",
+    "title": "Necklace of Fireballs",
+    "icon": "crossed-swords",
+    "icon_back": "crossed-swords",
+    "contents": [
+      "subtitle | Wondrous item, rare",
+      "property | Tier | Minor tier",
+      "property | Weight | 1 lb.",
+      "rule",
+      "text | This necklace has 1d6 + 3 beads hanging from it. You can use an action to detach a bead and throw it up to 60 feet away. When it reaches the end of its trajectory, the bead detonates as a 3rd-level fireball spell (save DC 15).",
+      "text | You can hurl multiple beads, or even the whole necklace, as one action. When you do so, increase the level of the fireball by 1 for each bead beyond the first."
+    ],
+    "tags": [
+      "item",
+      "DMG",
+      "wondrous item"
+    ]
+  },
+  {
+    "count": "2",
+    "color": "black",
+    "title": "Ravens Cloak",
+    "icon": "crossed-swords",
+    "icon_back": "crossed-swords",
+    "contents": [
+      "subtitle | Wondrous item, rare (requires attunement)",
+      "property | Tier | Rare",
+      "rule",
+      "text | While wearing this cloak, you can use an action to speak its command word. This turns the cloak into a pair of raven wings on your back for 1 hour or until you repeat the command word as an action. The wings give you a flying speed of 60 feet. When they disappear, you can't use them again for 1d12 hours."
+    ],
+    "tags": [
+      "item",
+      "DMG",
+      "wondrous item"
+    ]
+  },
+  {
+    "count": "2",
+    "color": "black",
+    "title": "Kai's Whistle",
+    "icon": "crossed-swords",
+    "icon_back": "crossed-swords",
+    "contents": [
+      "subtitle | Wondrous item, rare",
+      "property | Tier | Very rare",
+      "property | Weight | 2 lb.",
+      "rule",
+      "text | You can use an action to blow this whistle. In response, 2 wolf spirits appear within 60 feet of you. These spirits use the wolf statistics. "
+    ],
+    "tags": [
+      "item",
+      "DMG",
+      "wondrous item"
+    ]
+  },
+  {
+    "count": "2",
+    "color": "black",
+    "title": "Bag of Holding",
+    "icon": "crossed-swords",
+    "icon_back": "crossed-swords",
+    "contents": [
+      "subtitle | Wondrous item, uncommon",
+      "property | Tier | uncommon",
+      "property | Weight | 15 lb.",
+      "rule",
+      "text | This bag has an interior space considerably larger than its outside dimensions, roughly 2 feet in diameter at the mouth and 4 feet deep. The bag can hold up to 500 pounds, not exceeding a volume of 64 cubic feet. The bag weighs 15 pounds, regardless of its contents. Retrieving an item from the bag requires an action.",
+      ""
+    ],
+    "tags": [
+      "item",
+      "DMG",
+      "wondrous item"
+    ]
+  },
+  {
+    "count": "2",
+    "color": "black",
+    "title": "General Tomura's Spear",
+    "icon": "crossed-swords",
+    "icon_back": "crossed-swords",
+    "contents": [
+      "subtitle | Weapon, rare",
+      "property | Damage | 1d12 piercing",
+      "property | Properties |  two-handed",
+      "property | Range| 5-10ft",
+      "property | Weight | 6 lb.",
+      "rule",
+      "description | Great Weapon Master | While attuned and holding this weapon you gain a Great Weapon Master feat.",
+      "description | Requirement|  20 Strength"
+    ],
+    "tags": [
+      "item",
+      "DMG",
+      "martial weapon",
+      "melee weapon"
+    ]
+  },
+  {
+    "count": "2",
+    "title": "Cutting Words",
+    "contents": [
+      "subtitle | Skill scroll",
+      "property| Number of charges | 3",
+      "rule",
+      "",
+      "text | When a creature that you can see within 60 feet of you makes an attack roll, an ability check, or a damage roll, you can use your reaction to expend one of your charges, rolling a 1D6  and subtracting the number rolled from the creature’s roll. You can choose to use this feature after the creature makes its roll, but before the GM determines whether the attack roll or ability check succeeds or fails. The creature is immune if it can’t hear you or if it’s immune to being charmed."
+    ],
+    "tags": [],
+    "color": "",
+    "icon_back": "tied-scroll",
+    "icon": "tied-scroll"
+  }
+]
