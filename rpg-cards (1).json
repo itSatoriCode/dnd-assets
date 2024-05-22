@@ -1,0 +1,553 @@
+[
+  {
+    "count": 2,
+    "color": "black",
+    "title": "+2 Greatsword",
+    "icon": "crossed-swords",
+    "icon_back": "crossed-swords",
+    "contents": [
+      "subtitle | Weapon, rare",
+      "property | Damage | 2d6 slashing",
+      "property | Properties | Heavy, two-handed",
+      "property | Type | Martial weapon, melee weapon",
+      "property | Tier | Major tier",
+      "property | Weight | 6 lb.",
+      "rule",
+      "description | Heavy | Small/Tiny creatures have disadvantage on attack rolls.",
+      "description | Two-Handed | Requires two hands to attack with."
+    ],
+    "tags": [
+      "item",
+      "DMG",
+      "martial weapon",
+      "melee weapon"
+    ]
+  },
+  {
+    "count": 3,
+    "color": "black",
+    "title": "Bag of Holding",
+    "icon": "crossed-swords",
+    "icon_back": "crossed-swords",
+    "contents": [
+      "subtitle | Wondrous item, uncommon",
+      "property | Tier | Minor tier",
+      "property | Weight | 15 lb.",
+      "rule",
+      "text | This bag has an interior space considerably larger than its outside dimensions, roughly 2 feet in diameter at the mouth and 4 feet deep. The bag can hold up to 500 pounds, not exceeding a volume of 64 cubic feet. The bag weighs 15 pounds, regardless of its contents. Retrieving an item from the bag requires an action.",
+      "text | If the bag is overloaded, pierced, or torn, it ruptures and is destroyed, and its contents are scattered in the Astral Plane. If the bag is turned inside out, its contents spill forth, unharmed, but the bag must be put right before it can be used again. Breathing creatures inside the bag can survive up to a number of minutes equal to 10 divided by the number of creatures (minimum 1 minute), after which time they begin to suffocate.",
+      "text | Placing a bag of holding inside an extradimensional space created by a Heward's handy haversack, portable hole, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it to a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened."
+    ],
+    "tags": [
+      "item",
+      "DMG",
+      "wondrous item"
+    ]
+  },
+  {
+    "count": 3,
+    "color": "#4a6898",
+    "title": "Fireball",
+    "icon": "magic-swirl",
+    "icon_back": "magic-swirl",
+    "contents": [
+      "subtitle | 3rd-level evocation",
+      "rule",
+      "property | Casting Time | 1 action",
+      "property | Range | 150 feet",
+      "property | Components | V, S, M (a tiny ball of bat guano and sulfur)",
+      "property | Duration | Instantaneous",
+      "rule",
+      "text | A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame. Each creature in a 20-foot-radius sphere centered on that point must make a Dexterity saving throw. A target takes 8d6 fire damage on a failed save, or half as much damage on a successful one.",
+      "text | The fire spreads around corners. It ignites flammable objects in the area that aren't being worn or carried.",
+      "section | At higher levels",
+      "text | When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd."
+    ],
+    "tags": [
+      "spell",
+      "PHB",
+      "3rd level",
+      "Evocation",
+      "Sorcerer",
+      "Wizard"
+    ]
+  },
+  {
+    "count": 3,
+    "color": "black",
+    "title": "Potion of Greater Healing",
+    "icon": "crossed-swords",
+    "icon_back": "crossed-swords",
+    "contents": [
+      "subtitle | Potion, uncommon",
+      "property | Tier | Minor tier",
+      "rule",
+      "text | You regain 4d4 + 4 hit points when you drink this potion. The potion's red liquid glimmers when agitated."
+    ],
+    "tags": [
+      "item",
+      "DMG",
+      "potion"
+    ]
+  },
+  {
+    "count": 3,
+    "color": "black",
+    "title": "Potion of Superior Healing",
+    "icon": "crossed-swords",
+    "icon_back": "crossed-swords",
+    "contents": [
+      "subtitle | Potion, rare",
+      "property | Tier | Minor tier",
+      "rule",
+      "text | You regain 8d4 + 8 hit points when you drink this potion. The potion's red liquid glimmers when agitated."
+    ],
+    "tags": [
+      "item",
+      "DMG",
+      "potion"
+    ]
+  },
+  {
+    "count": 2,
+    "color": "black",
+    "title": "Gloves of Thievery",
+    "icon": "crossed-swords",
+    "icon_back": "crossed-swords",
+    "contents": [
+      "subtitle | Wondrous item, uncommon",
+      "property | Tier | Major tier",
+      "rule",
+      "text | These gloves are invisible while worn. While wearing them, you gain a +5 bonus to Dexterity (Sleight of Hand) checks and Dexterity checks made to pick locks."
+    ],
+    "tags": [
+      "item",
+      "DMG",
+      "wondrous item"
+    ]
+  },
+  {
+    "count": 3,
+    "color": "black",
+    "title": "Potion of Fire Breath",
+    "icon": "crossed-swords",
+    "icon_back": "crossed-swords",
+    "contents": [
+      "subtitle | Potion, uncommon",
+      "property | Tier | Minor tier",
+      "rule",
+      "text | After drinking this potion, you can use a bonus action to exhale fire at a target within 30 feet of you. The target must make a DC 13 Dexterity saving throw, taking 4d6 fire damage on a failed save, or half as much damage on a successful one. The effect ends after you exhale the fire three times or when 1 hour has passed. This potion's orange liquid flickers, and smoke fills the top of the container and wafts out whenever it is opened."
+    ],
+    "tags": [
+      "item",
+      "DMG",
+      "potion"
+    ]
+  },
+  {
+    "count": 3,
+    "color": "black",
+    "title": "Potion of Lightning Resistance",
+    "icon": "crossed-swords",
+    "icon_back": "crossed-swords",
+    "contents": [
+      "subtitle | Potion, uncommon",
+      "property | Tier | Minor tier",
+      "rule",
+      "text | When you drink this potion, you gain resistance to lightning damage for 1 hour.",
+      "text | Resistance to lightning damage for 1 hour."
+    ],
+    "tags": [
+      "item",
+      "DMG",
+      "potion"
+    ],
+    "title_size": "10"
+  },
+  {
+    "count": 3,
+    "color": "black",
+    "title": "Potion of Growth",
+    "icon": "crossed-swords",
+    "icon_back": "crossed-swords",
+    "contents": [
+      "subtitle | Potion, uncommon",
+      "property | Tier | Minor tier",
+      "rule",
+      "text | When you drink this potion, you gain the \"enlarge\" effect of the enlarge/reduce spell for 1d4 hours (no concentration required). The red in the potion's liquid continuously expands from a tiny bead to color the clear liquid around it and then contracts. Shaking the bottle fails to interrupt this process."
+    ],
+    "tags": [
+      "item",
+      "DMG",
+      "potion"
+    ]
+  },
+  {
+    "count": 3,
+    "color": "black",
+    "title": "Potion of Invisibility",
+    "icon": "crossed-swords",
+    "icon_back": "crossed-swords",
+    "contents": [
+      "subtitle | Potion, very rare",
+      "property | Tier | Minor tier",
+      "rule",
+      "text | This potion's container looks empty but feels as though it holds liquid. When you drink it, you become invisible for 1 hour. Anything you wear or carry is invisible with you. The effect ends early if you attack or cast a spell."
+    ],
+    "tags": [
+      "item",
+      "DMG",
+      "potion"
+    ]
+  },
+  {
+    "count": 3,
+    "color": "black",
+    "title": "Ring of Protection",
+    "icon": "crossed-swords",
+    "icon_back": "crossed-swords",
+    "contents": [
+      "subtitle | Ring, rare (requires attunement)",
+      "property | Tier | Major tier",
+      "rule",
+      "text | You gain a +1 bonus to AC and saving throws while wearing this ring."
+    ],
+    "tags": [
+      "item",
+      "DMG",
+      "ring"
+    ]
+  },
+  {
+    "count": 3,
+    "color": "black",
+    "title": "Potion of Invulnerability",
+    "icon": "crossed-swords",
+    "icon_back": "crossed-swords",
+    "contents": [
+      "subtitle | Potion, rare",
+      "property | Tier | Minor tier",
+      "rule",
+      "text | For 1 minute after you drink this potion, you have resistance to all damage. The potion's syrupy liquid looks like liquefied iron.",
+      "text | Resistance to acid,bludgeoning,cold,fire,force,lightning,necrotic,piercing,poison,psychic,radiant,slashing,thunder damage for 1 hour."
+    ],
+    "tags": [
+      "item",
+      "DMG",
+      "potion"
+    ],
+    "title_size": "10"
+  },
+  {
+    "count": 3,
+    "color": "#4a6898",
+    "title": "Feather Fall",
+    "icon": "magic-swirl",
+    "icon_back": "magic-swirl",
+    "contents": [
+      "subtitle | 1st-level transmutation",
+      "rule",
+      "property | Casting Time | 1 reaction, which you take when you or a creature within 60 feet of you falls",
+      "property | Range | 60 feet",
+      "property | Components | V, M (a small feather or a piece of down)",
+      "property | Duration | 1 minute",
+      "rule",
+      "text | Choose up to five falling creatures within range. A falling creature's rate of descent slows to 60 feet per round until the spell ends. If the creature lands before the spell ends, it takes no falling damage and can land on its feet, and the spell ends for that creature."
+    ],
+    "tags": [
+      "spell",
+      "PHB",
+      "1st level",
+      "Transmutation",
+      "Bard",
+      "Sorcerer",
+      "Wizard",
+      "Artificer"
+    ]
+  },
+  {
+    "count": 3,
+    "color": "#4a6898",
+    "title": "Pass without Trace",
+    "icon": "magic-swirl",
+    "icon_back": "magic-swirl",
+    "contents": [
+      "subtitle | 2nd-level abjuration",
+      "rule",
+      "property | Casting Time | 1 action",
+      "property | Range | Self",
+      "property | Components | V, S, M (ashes from a burned leaf of mistletoe and a sprig of spruce)",
+      "property | Duration | Concentration, up to 1 hour",
+      "rule",
+      "text | A veil of shadows and silence radiates from you, masking you and your companions from detection. For the duration, each creature you choose within 30 feet of you (including you) has a +10 bonus to Dexterity (Stealth) checks and can't be tracked except by magical means. A creature that receives this bonus leaves behind no tracks or other traces of its passage."
+    ],
+    "tags": [
+      "spell",
+      "PHB",
+      "2nd level",
+      "Abjuration",
+      "Druid",
+      "Ranger",
+      "concentration"
+    ]
+  },
+  {
+    "count": 3,
+    "color": "#4a6898",
+    "title": "Comprehend Languages",
+    "icon": "magic-swirl",
+    "icon_back": "magic-swirl",
+    "contents": [
+      "subtitle | 1st-level divination (ritual)",
+      "rule",
+      "property | Casting Time | 1 action",
+      "property | Range | Self",
+      "property | Components | V, S, M (a pinch of soot and salt)",
+      "property | Duration | 1 hour",
+      "rule",
+      "text | For the duration, you understand the literal meaning of any spoken language that you hear. You also understand any written language that you see, but you must be touching the surface on which the words are written. It takes about 1 minute to read one page of text.",
+      "text | This spell doesn't decode secret messages in a text or a glyph, such as an arcane sigil, that isn't part of a written language."
+    ],
+    "tags": [
+      "spell",
+      "PHB",
+      "1st level",
+      "Divination",
+      "Bard",
+      "Sorcerer",
+      "Warlock",
+      "Wizard",
+      "ritual"
+    ]
+  },
+  {
+    "count": 3,
+    "color": "#4a6898",
+    "title": "Misty Step",
+    "icon": "magic-swirl",
+    "icon_back": "magic-swirl",
+    "contents": [
+      "subtitle | 2nd-level conjuration",
+      "rule",
+      "property | Casting Time | 1 bonus action",
+      "property | Range | Self",
+      "property | Components | V",
+      "property | Duration | Instantaneous",
+      "rule",
+      "text | Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space that you can see."
+    ],
+    "tags": [
+      "spell",
+      "PHB",
+      "2nd level",
+      "Conjuration",
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ]
+  },
+  {
+    "count": 2,
+    "color": "black",
+    "title": "+2 Dagger",
+    "icon": "crossed-swords",
+    "icon_back": "crossed-swords",
+    "contents": [
+      "subtitle | Weapon, rare",
+      "property | Damage | 1d4 piercing",
+      "property | Properties | Finesse, light, thrown (20/60 ft.)",
+      "property | Type | Simple weapon, melee weapon",
+      "property | Tier | Major tier",
+      "property | Weight | 1 lb.",
+      "rule",
+      "description | Finesse | Your choice of your Str or Dex modifier for attack and damage rolls. Same modifier for both rolls.",
+      "description | Thrown | Throw this weapon as a ranged attack. If it is a melee weapon, use the ability modifier for the attack and damage roll that you would use for a melee attack."
+    ],
+    "tags": [
+      "item",
+      "DMG",
+      "simple weapon",
+      "melee weapon"
+    ]
+  },
+  {
+    "count": 2,
+    "color": "black",
+    "title": "+2 Longbow",
+    "icon": "crossed-swords",
+    "icon_back": "crossed-swords",
+    "contents": [
+      "subtitle | Weapon, rare",
+      "property | Damage | 1d8 piercing",
+      "property | Properties | Ammunition (150/600 ft.), heavy, two-handed",
+      "property | Type | Martial weapon, ranged weapon",
+      "property | Tier | Major tier",
+      "property | Weight | 2 lb.",
+      "rule",
+      "description | Range | Given as two numbers; normal and max. Attacks beyond normal range have disadvantage.",
+      "description | Ammunition | Requires ammo, drawn as part of attack. After combat, spend 1 minute to recover half expended.",
+      "text | Treat as improvised weapon for melee (slings must be loaded).",
+      "description | Heavy | Small/Tiny creatures have disadvantage on attack rolls.",
+      "description | Two-Handed | Requires two hands to attack with."
+    ],
+    "tags": [
+      "item",
+      "DMG",
+      "martial weapon",
+      "ranged weapon"
+    ]
+  },
+  {
+    "count": 2,
+    "color": "black",
+    "title": "+2 Longsword",
+    "icon": "crossed-swords",
+    "icon_back": "crossed-swords",
+    "contents": [
+      "subtitle | Weapon, rare",
+      "property | Damage | 1d8 slashing",
+      "property | Properties | Versatile (1d10)",
+      "property | Type | Martial weapon, melee weapon",
+      "property | Tier | Major tier",
+      "property | Weight | 3 lb.",
+      "rule",
+      "description | Versatile | Use the damage in parentheses when making a melee attack with two hands."
+    ],
+    "tags": [
+      "item",
+      "DMG",
+      "martial weapon",
+      "melee weapon"
+    ]
+  },
+  {
+    "count": 2,
+    "color": "black",
+    "title": "Flame Tongue Rapier",
+    "icon": "crossed-swords",
+    "icon_back": "crossed-swords",
+    "contents": [
+      "subtitle | Weapon, rare (requires attunement)",
+      "property | Damage | 1d8 piercing",
+      "property | Properties | Finesse",
+      "property | Type | Martial weapon, melee weapon",
+      "property | Tier | Major tier",
+      "property | Weight | 2 lb.",
+      "rule",
+      "description | Finesse | Your choice of your Str or Dex modifier for attack and damage rolls. Same modifier for both rolls."
+    ],
+    "tags": [
+      "item",
+      "DMG",
+      "martial weapon",
+      "melee weapon"
+    ]
+  },
+  {
+    "count": 2,
+    "color": "black",
+    "title": "Flame Tongue Shortsword",
+    "icon": "crossed-swords",
+    "icon_back": "crossed-swords",
+    "contents": [
+      "subtitle | Weapon, rare (requires attunement)",
+      "property | Damage | 1d6 piercing",
+      "property | Properties | Finesse, light",
+      "property | Type | Martial weapon, melee weapon",
+      "property | Tier | Major tier",
+      "property | Weight | 2 lb.",
+      "rule",
+      "description | Finesse | Your choice of your Str or Dex modifier for attack and damage rolls. Same modifier for both rolls."
+    ],
+    "tags": [
+      "item",
+      "DMG",
+      "martial weapon",
+      "melee weapon"
+    ],
+    "title_size": "10"
+  },
+  {
+    "count": 3,
+    "color": "#4a6898",
+    "title": "Teleportation Circle",
+    "icon": "magic-swirl",
+    "icon_back": "magic-swirl",
+    "contents": [
+      "subtitle | 5th-level conjuration",
+      "rule",
+      "property | Casting Time | 1 minute",
+      "property | Range | 10 feet",
+      "property | Components | V, M (rare chalks and inks infused with precious gems worth 50 gp, which the spell consumes)",
+      "property | Duration | 1 round",
+      "rule",
+      "text | As you cast the spell, you draw a 10-foot-diameter circle on the ground inscribed with sigils that link your location to a permanent teleportation circle of your choice whose sigil sequence you know and that is on the same plane of existence as you. A shimmering portal opens within the circle you drew and remains open until the end of your next turn. Any creature that enters the portal instantly appears within 5 feet of the destination circle or in the nearest unoccupied space if that space is occupied.",
+      "text | Many major temples, guilds, and other important places have permanent teleportation circles inscribed somewhere within their confines. Each such circle includes a unique sigil sequence—a string of magical runes arranged in a particular pattern. When you first gain the ability to cast this spell, you learn the sigil sequences for two destinations on the Material Plane, determined by the DM. You can learn additional sigil sequences during your adventures. You can commit a new sigil sequence to memory after studying it for 1 minute.",
+      "text | You can create a permanent teleportation circle by casting this spell in the same location every day for one year. You need not use the circle to teleport when you cast the spell in this way."
+    ],
+    "tags": [
+      "spell",
+      "PHB",
+      "5th level",
+      "Conjuration",
+      "Bard",
+      "Sorcerer",
+      "Wizard",
+      "Warlock"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "black",
+    "title": "Boots of Elvenkind",
+    "icon": "crossed-swords",
+    "icon_back": "crossed-swords",
+    "contents": [
+      "subtitle | Wondrous item, uncommon",
+      "property | Tier | Major tier",
+      "rule",
+      "text | While you wear these boots, your steps make no sound, regardless of the surface you are moving across. You also have advantage on Dexterity (Stealth) checks that rely on moving silently."
+    ],
+    "tags": [
+      "item",
+      "DMG",
+      "wondrous item"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "black",
+    "title": "Cloak of Elvenkind",
+    "icon": "crossed-swords",
+    "icon_back": "crossed-swords",
+    "contents": [
+      "subtitle | Wondrous item, uncommon (requires attunement)",
+      "property | Tier | Major tier",
+      "rule",
+      "text | While you wear this cloak with its hood up, Wisdom (Perception) checks made to see you have disadvantage, and you have advantage on Dexterity (Stealth) checks made to hide, as the cloak's color shifts to camouflage you. Pulling the hood up or down requires an action."
+    ],
+    "tags": [
+      "item",
+      "DMG",
+      "wondrous item"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "black",
+    "title": "Hat of Disguise",
+    "icon": "crossed-swords",
+    "icon_back": "crossed-swords",
+    "contents": [
+      "subtitle | Wondrous item, uncommon (requires attunement)",
+      "property | Tier | Major tier",
+      "rule",
+      "text | While wearing this hat, you can use an action to cast the disguise self spell from it at will. The spell ends if the hat is removed."
+    ],
+    "tags": [
+      "item",
+      "DMG",
+      "wondrous item"
+    ]
+  }
+]
