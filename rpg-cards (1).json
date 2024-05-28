@@ -88,7 +88,8 @@
       "item",
       "DMG",
       "potion"
-    ]
+    ],
+    "title_size": "11"
   },
   {
     "count": 3,
@@ -106,7 +107,8 @@
       "item",
       "DMG",
       "potion"
-    ]
+    ],
+    "title_size": "11"
   },
   {
     "count": 2,
@@ -549,5 +551,45 @@
       "DMG",
       "wondrous item"
     ]
+  },
+  {
+    "count": "11",
+    "color": "DarkRed",
+    "title": "Potion of ",
+    "icon": "potion-ball",
+    "icon_back": "potion-ball",
+    "contents": [
+      "subtitle | Potion, (rarity)",
+      "property | Tier | ",
+      "rule",
+      "text | This is a custom potion, so please google its properties yourself. Thank you 😀"
+    ],
+    "tags": [
+      "item",
+      "DMG",
+      "potion"
+    ],
+    "card_font_size": "12",
+    "title_size": "11"
+  },
+  {
+    "count": "11",
+    "color": "saddlebrown",
+    "title": "Scroll of",
+    "icon": "tied-scroll",
+    "icon_back": "tied-scroll",
+    "contents": [
+      "subtitle | Scroll, (rarity)",
+      "property | Tier | ",
+      "rule",
+      "text | This is a custom spell card, so please google its properties yourself. Thank you 😀"
+    ],
+    "tags": [
+      "item",
+      "DMG",
+      "potion"
+    ],
+    "card_font_size": "12",
+    "title_size": "11"
   }
 ]
