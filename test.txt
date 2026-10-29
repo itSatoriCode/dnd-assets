@@ -1,0 +1,79 @@
+AI in Independent Guitar Learning: Relevance, Opportunities, and Impacts
+
+1. Introduction and Practice Context
+
+Learning guitar independently requires consistent practice, patience, and the ability to recognise and correct mistakes. For many learners, learning familiar or personally meaningful songs provides motivation and makes practice more enjoyable. However, independent learners may struggle to find suitable tablature, progress towards more challenging techniques, and identify errors without a teacher. Artificial intelligence (AI) is increasingly relevant to these challenges because it can analyse musical audio, generate musical content, and provide personalised feedback.
+
+AI technologies, including machine learning, deep learning, and generative AI, offer opportunities to change how musical skills are acquired. In guitar learning, these technologies can support music transcription, generate guitar tablature, recognise playing techniques, and adapt learning guidance to individual needs. Nevertheless, their educational value depends on accuracy, accessibility, and their ability to support meaningful skill development rather than simply automate tasks.
+
+This report evaluates the current and potential relevance of AI in independent guitar learning. It argues that AI could improve access to musical resources, motivation, and feedback, but its impact is constrained by technical limitations, ethical concerns, and the risk of learners becoming overly dependent on automated guidance.
+
+2. AI Technology and Current Relevance
+
+AI in guitar learning involves several related technologies. Machine-learning systems identify patterns in data, while deep-learning models can process complex audio signals or generate sequences of musical notes. Generative AI can also produce explanations and personalised learning guidance in response to a learner’s questions. These capabilities are relevant to independent learning because they may provide support that would otherwise require specialist knowledge or regular instruction.
+
+One application is automatic music transcription, which attempts to identify musical notes from recordings. Converting a song into guitar tablature requires more than recognising pitches: the notes must also be assigned to strings and frets in a physically playable arrangement. Fiss and Kwasinski (2013) investigated audio-based guitar tablature transcription using multipitch analysis and playability constraints, demonstrating the technical importance of considering how notes can be performed on an instrument.
+
+Deep learning has also been explored for generating fingerstyle guitar tablature. Chen et al. (2020) used a Transformer-XL model to generate guitar tabs and investigated whether the output contained plausible string-and-fret combinations and coherent rhythmic patterns. Their work provides preliminary evidence that deep-learning models can generate guitar-specific musical content, although generated material still requires evaluation for musical quality and playability.
+
+AI can also support personalised instruction and performance feedback. Shu et al. (2025) developed FretMate, a ChatGPT-powered guitar-learning assistant offering immediate error correction, personalised learning pathways, and emotional support. In a controlled two-week study involving 16 participants, the researchers reported improvements in skill acquisition, engagement, and motivation compared with traditional self-guided practice. However, the small sample and short evaluation period limit the extent to which these findings can be generalised.
+
+These examples demonstrate that AI is already being investigated for several tasks relevant to guitar learning. However, the existence of a technical capability does not automatically establish its educational effectiveness. The significance of AI must therefore be evaluated in terms of its effects on learning, motivation, accessibility, and musical independence.
+
+3. Opportunities and Potential Impact
+
+Motivation and access to musical resources
+
+One potential benefit of AI is greater access to learning material. Transcription and generative models could make it easier for learners to explore songs for which suitable guitar tablature is unavailable. Fingerstyle arrangements may be particularly valuable because they require learners to coordinate melody, bass notes, and accompaniment simultaneously. AI-generated arrangements could also offer different levels of complexity, allowing learners to approach challenging music more gradually.
+
+Personal choice may further support motivation. Bonneville-Roussy and Evans (2025) found associations between autonomous motivation, practice time, and practice quality among university music students. Although this research did not specifically investigate AI or learning favourite songs, it suggests that learner choice may contribute to productive practice. AI could support this process by helping learners access music that interests them.
+
+However, enjoyment and engagement should not be treated as equivalent to learning effectiveness. Repeatedly playing familiar songs may reinforce existing abilities without addressing weaknesses. The educational value of AI-generated material therefore depends on whether it also encourages deliberate practice, progressive skill development, and reflection.
+
+Personalised learning and immediate feedback
+
+AI may also help independent learners identify errors and adjust practice to their current ability. Personalised guidance can potentially make learning more manageable by breaking complex skills into smaller steps. For example, learners developing fingerstyle guitar skills need to coordinate different fingers, maintain rhythm, and separate melody from accompaniment. Feedback on these elements could help learners recognise specific areas for improvement.
+
+The findings from Shu et al. (2025) provide early evidence that AI-assisted guitar learning can support engagement and short-term skill acquisition. Nevertheless, further research is needed to determine whether these improvements persist over time and apply to learners with different abilities and learning preferences.
+
+Machine learning can also recognise aspects of guitar performance. Stefani and Turchet (2025) developed a real-time system that classified eight pitched and percussive guitar-playing techniques. Their research demonstrates the feasibility of recognising certain playing techniques from audio, but also identifies trade-offs between recognition accuracy and processing latency, alongside difficulties generalising across different players and instruments.
+
+Consequently, AI-based feedback could make independent practice more responsive and help learners correct some mistakes sooner. Its impact will depend on the reliability of its assessments and whether feedback explains how to improve rather than simply indicating that a performance was incorrect.
+
+4. Risks, Limitations, and Ethical Considerations
+
+Accuracy and reliability
+
+A major limitation is that AI-generated musical content can contain errors. Audio recordings may include multiple instruments, overlapping notes, unusual tunings, and expressive techniques that make transcription difficult. Even when the notes are identified correctly, the resulting tablature may use awkward fingering or fail to capture the musical character of the original performance.
+
+Research into guitar transcription and tab generation demonstrates both the progress and the remaining complexity of these tasks (Chen et al., 2020; Fiss & Kwasinski, 2013). Incorrect output could waste practice time or reinforce misunderstandings. Learners should therefore be encouraged to compare generated material with the original recording, verify uncertain passages, and treat AI output as guidance rather than unquestionable authority.
+
+Physical technique and overreliance
+
+Audio-based feedback also has important limitations. A system may detect a missed note or incorrect rhythm without identifying its physical cause. Problems such as excessive tension, inefficient finger placement, and poor posture may not be reliably inferred from sound alone. The technique-recognition research of Stefani and Turchet (2025) demonstrates that specific playing actions can be classified, but does not establish that audio analysis can comprehensively assess physical technique.
+
+Overreliance on AI could also weaken learners’ ability to evaluate their own performance. Varela et al. (2016) emphasise the importance of self-regulation in music learning, including monitoring progress and reflecting on practice. If learners follow automated instructions without developing these abilities, immediate assistance could come at the expense of long-term independence. AI should therefore complement critical listening, deliberate practice, and human instruction where appropriate.
+
+Copyright, privacy, and equitable access
+
+AI-based music tools raise copyright questions when users upload commercial recordings, generate arrangements, or share tablature derived from protected works. In New Zealand, the Copyright Act 1994 provides the relevant legal framework, although the legality of particular uses depends on the circumstances and applicable provisions. Responsible systems should provide clear guidance on permissions and avoid facilitating unauthorised distribution of protected material.
+
+Privacy is another concern. Audio recordings, practice histories, and performance assessments may reveal information about learners’ habits and abilities. Users should receive clear explanations of what data is collected, how long it is retained, whether it is used for model training, and how it can be deleted. Data minimisation, secure storage, and informed consent are important safeguards.
+
+Finally, unequal access to suitable devices, reliable internet connections, and paid AI services may exclude some learners. AI systems may also perform unevenly across musical genres, playing styles, and cultural traditions if their training data are limited. These risks highlight the need for affordable access, representative training material, transparent limitations, and human oversight. AI’s potential benefits should not be assumed to be equally available to everyone.
+
+5. Future Relevance and Critical Reflection
+
+AI is likely to remain relevant to independent music learning as audio analysis, generative models, and interactive feedback systems develop. More capable systems may improve transcription accuracy, generate more playable arrangements, and provide increasingly specific guidance on musical performance. These advances could reduce some barriers to learning and allow learners to practise with more immediate support.
+
+However, future impact should be assessed through meaningful educational outcomes rather than technological sophistication alone. A system that increases practice time or engagement may still be ineffective if learners fail to retain skills, develop poor technique, or become dependent on automated corrections. Shu et al. (2025) provide encouraging preliminary findings, but their short study does not establish long-term benefits. Future research should investigate skill retention, independent error recognition, physical technique, creative development, and performance across diverse learners and musical styles.
+
+The most valuable role for AI is likely to be as a support for human learning rather than a replacement for musical judgement. Learners still need to listen critically, understand musical expression, make creative decisions, and recognise when automated feedback is incorrect. Human teachers can provide contextual guidance and observe physical technique in ways that audio-only systems may not reliably achieve. The future relevance of AI will therefore depend on how effectively it complements these human capabilities.
+
+6. Conclusion
+
+AI has significant potential to influence independent guitar learning through music transcription, tablature generation, personalised guidance, and performance feedback. Research demonstrates promising technical developments and early evidence of educational benefits. However, inaccurate output, limitations in assessing physical technique, copyright concerns, privacy risks, and unequal access may restrict its impact. AI is most likely to provide lasting educational value when it supports deliberate practice, critical judgement, and musical independence. Ultimately, success should be measured by sustained skill development and meaningful musical engagement, rather than automation or short-term motivation alone.
+
+AI Use Disclosure
+
+ChatGPT was used to assist with structuring the report, identifying potentially relevant research, and refining written expression. AI-generated suggestions were treated as a starting point rather than authoritative evidence. Research claims and references should be checked against the original publications, and the final submission should comply with the institution’s requirements for acknowledging AI assistance.
